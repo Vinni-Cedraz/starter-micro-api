@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Vinni-Cedraz",
+	"description": "A project that does something back-endy",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
