@@ -3,6 +3,7 @@
 	"author": "Vinni-Cedraz",
 	"description": "A project that does something awesome",
 	"keywords": [ "freecodecamp", "microservice", "guide" ],
+	"package": "1.2.13",
 	"license": "MIT",
 	"version": "0.0.0",
 	"dependencies": {
